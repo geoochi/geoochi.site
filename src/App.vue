@@ -7,7 +7,7 @@ import '@/global.css'
 const isDark = useDark()
 
 useHead({
-  meta: [{ name: 'description', content: 'geoochi\'s site' }],
+  meta: [{ name: 'description', content: "geoochi's site" }],
 })
 </script>
 
